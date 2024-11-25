@@ -55,14 +55,16 @@ I like coding and learning new stuff.
     <img alt="Instagram" title="Instagram" height="48" width="48" src="https://cdn.simpleicons.org/instagram"></a>
 
 ---
-
+</details>
+  
 <details>
 <summary>
-  <h2>Inspirations for my README</h2> 
+  <h4>Inspirations for my README</h4> 
 </summary>
   
 - [Format from filiptronicek](https://github.com/filiptronicek)
 - [Icons from peterthehan](https://github.com/peterthehan)
+</details>
 
 <!--
 **cedricfyc/cedricfyc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
