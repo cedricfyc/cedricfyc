@@ -1,13 +1,14 @@
 ## Hi there, I'm Cedric 😃.
 I'm a Mauritian :mauritius: Mechatronics Engineering student :robot: currently studying in Germany.
 I like coding and learning new stuff.
+![Wild Horse]("cedricfyc\images\horse.gif")
 
 <details>
 <summary>
   More about me
 </summary>
 
-## My skills 📜
+## My Skills 📜
 - #### Python
   - Machine Learning
   - Computer Vision
@@ -19,7 +20,7 @@ I like coding and learning new stuff.
     
 ---
 
-## What I'm currently working on 📖
+## What I'm Currently Working On 📖
 - #### [Machine Learning and ROS](https://github.com/cedricfyc/Online_tutorials)
 - #### Microcontroller Programming (to be added to GitHub)
 - #### Improving my German to a C1
