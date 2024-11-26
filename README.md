@@ -3,6 +3,7 @@ I'm a Mauritian :mauritius: Mechatronics Engineering student :robot: currently s
 I like coding and learning new stuff.
 ![](https://github.com/cedricfyc/horse.gif)
 
+
 <details>
 <summary>
   More about me
