@@ -1,9 +1,11 @@
 ## Hi there, I'm Cedric 😃.
 I'm a Mauritian :mauritius: Mechatronics Engineering student :robot: currently studying in Germany.
 I like coding and learning new stuff.
+
 <div align="center">
-<img width="400" height="250" src="https://github.com/cedricfyc/horse.gif?raw=true" alt="horse" />
+  <img src="./horse.gif"/>
 </div>
+
 
 <details>
 <summary>
