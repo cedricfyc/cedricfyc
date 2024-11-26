@@ -6,6 +6,7 @@ I like coding and learning new stuff.
   <img src="https://github.com/cedricfyc/cedricfyc/blob/main/images/horse.gif"/>
 </div>
 
+
 <details>
 <summary>
   More about me
