@@ -31,6 +31,7 @@ I like coding and learning new stuff.
 - #### [Machine Learning and ROS](https://github.com/cedricfyc/Online_tutorials)
 - #### Microcontroller Programming (to be added to GitHub)
 - #### Improving my German to a C1
+- #### rosbag shortening and rosbag classification
 
 ---
 
