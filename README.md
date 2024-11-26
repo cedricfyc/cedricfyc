@@ -1,8 +1,9 @@
 ## Hi there, I'm Cedric 😃.
 I'm a Mauritian :mauritius: Mechatronics Engineering student :robot: currently studying in Germany.
 I like coding and learning new stuff.
+
 <div align="center">
-<img width="400" height="250" src="https://github.com/cedricfyc/horse.gif?raw=true" alt="horse" />
+  <img src="https://github.com/cedricfyc/cedricfyc/blob/main/images/horse.gif"/>
 </div>
 
 <details>
@@ -12,10 +13,13 @@ I like coding and learning new stuff.
 
 ## My Skills 📜
 - #### Python
+  - OOP Basics
   - Machine Learning
   - Computer Vision
   - Robot Programming (ROS)
 - #### C++
+  - OOP Basics
+  - Arduino Programming
 - #### MATLAB
   - Rapid Prototyping and Real-Time Simulation
   - State Space Modelling
