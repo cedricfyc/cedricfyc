@@ -1,7 +1,7 @@
 ## Hi there, I'm Cedric 😃.
 I'm a Mauritian :mauritius: Mechatronics Engineering student :robot: currently studying in Germany.
 I like coding and learning new stuff.
-![Wild Horse]("cedricfyc\images\horse.gif")
+![](https://github.com/cedricfyc/horse.gif)
 
 <details>
 <summary>
